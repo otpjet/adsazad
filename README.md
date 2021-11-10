@@ -1,7 +1,9 @@
 ### Hi there 👋
+
 <a href="https://twitter.com/intent/follow?screen_name=arashdeep_s">
 <img src="https://img.shields.io/twitter/follow/arashdeep_s?style=social">
 </a>
+
 ## Languages:
 <p>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
