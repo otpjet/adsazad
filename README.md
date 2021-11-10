@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.shields.io/twitter/follow/arashdeep_s?style=social">
 
 <!-- ![Arashdeep Singh's github stats](https://github-readme-stats.vercel.app/api?username=adsazad&show_icons=true&hide_border=true) -->
 
