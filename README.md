@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/intent/follow?screen_name=arashdeep_s">
+<a href="https://twitter.com/intent/follow?screen_name=arashdeep_s" target="_blank">
 <img src="https://img.shields.io/twitter/follow/arashdeep_s?style=social">
 </a>
 
